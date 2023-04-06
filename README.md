@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on DevOps, view my repositories to take a look at my projects
-
 <!--
 **tehreembhatti/TehreemBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
